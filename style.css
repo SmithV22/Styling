@@ -1,0 +1,17 @@
+.blackBG {
+    background-color: black;
+    color: white;
+    text
+}
+
+.purpleBG {
+    background-color: rgb(194, 59, 194);
+    color: white;
+    text-align: center;
+}
+
+.ltblueBG {
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+}
